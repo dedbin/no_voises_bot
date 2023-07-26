@@ -1,0 +1,10 @@
+certifi==2023.7.22
+charset-normalizer==3.2.0
+idna==3.4
+pip==22.3.1
+requests==2.31.0
+setuptools==65.5.1
+SpeechRecognition==3.10.0
+urllib3==2.0.4
+wheel==0.38.4
+pyTelegramBotAPI==4.12.0
